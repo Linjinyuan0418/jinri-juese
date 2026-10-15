@@ -1,0 +1,17 @@
+[
+  {
+    "id": "scene_store_night",
+    "name": "深夜便利店",
+    "eventDirections": ["找东西", "难缠客人", "货架异常"]
+  },
+  {
+    "id": "scene_community",
+    "name": "小区楼下",
+    "eventDirections": ["邻居闲聊", "快递", "小孩玩耍"]
+  },
+  {
+    "id": "scene_office",
+    "name": "公司茶水间",
+    "eventDirections": ["倒水", "同事闲聊", "听到八卦"]
+  }
+]

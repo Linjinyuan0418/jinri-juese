@@ -1,0 +1,22 @@
+[
+  {
+    "id": "task_store_find",
+    "sceneId": "scene_store_night",
+    "description": "一位客人进来说“有没有那种蓝色包装的东西”。",
+    "options": [
+      { "text": "耐心问清楚具体是什么", "feedback": "找到后客人道谢。", "attitude": "耐心" },
+      { "text": "直接指大概位置让他自己找", "feedback": "客人找了半天有点不满。", "attitude": "省事" },
+      { "text": "说没有，让他去别的店", "feedback": "客人离开了。", "attitude": "回避" }
+    ]
+  },
+  {
+    "id": "task_store_hesitant",
+    "sceneId": "scene_store_night",
+    "description": "另一个客人一直在货架前犹豫，不时看你。",
+    "options": [
+      { "text": "主动过去问需要帮忙吗", "feedback": "发现他在找解酒药，聊了两句。", "attitude": "热心" },
+      { "text": "继续整理货架，不主动搭话", "feedback": "他最终自己结账离开。", "attitude": "省事" },
+      { "text": "用眼神示意他快点", "feedback": "他有点尴尬地赶紧结账。", "attitude": "严格" }
+    ]
+  }
+]

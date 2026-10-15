@@ -1,0 +1,13 @@
+{
+  "description": "今日角色 - 每日短叙事体验",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "game",
+  "libVersion": "2.30.0",
+  "appid": "touristappid",
+  "projectname": "jinri-juese"
+}

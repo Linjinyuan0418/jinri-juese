@@ -1,0 +1,23 @@
+[
+  {
+    "id": "char_store_night",
+    "name": "夜班便利店店员",
+    "tags": ["耐心", "偶尔无奈"],
+    "behavior": "帮客人找东西、应付难缠顾客、深夜整理",
+    "introTemplate": "你是夜班店员，现在在{scene}。凌晨的灯光有点冷。"
+  },
+  {
+    "id": "char_auntie",
+    "name": "退休小区阿姨",
+    "tags": ["热心", "爱管闲事"],
+    "behavior": "和邻居聊天、提醒小孩、帮人看快递",
+    "introTemplate": "你是退休小区阿姨，正在{scene}。"
+  },
+  {
+    "id": "char_intern",
+    "name": "刚入职实习生",
+    "tags": ["谨慎", "想表现"],
+    "behavior": "参加早会、做表格、不敢拒绝请求",
+    "introTemplate": "你是刚入职的实习生，今天在{scene}。"
+  }
+]
